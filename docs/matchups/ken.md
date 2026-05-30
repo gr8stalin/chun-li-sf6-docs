@@ -9,6 +9,7 @@ The online matchmaking chimpanzee. It's important to be able to check Ken shenan
 
 1. Jinrai
 2. Dragonlash
+3. Ken Offense
 {:toc}
 
 # Jinrai
@@ -35,6 +36,16 @@ If the Ken shows you they're just picking between 6LK and 6MK based on vibes, yo
 
 # Dragonlash
 
-TODO: write down what i committed to memory for dragonlash
+If Ken does drive rush LK dragonlash, it's -4 on block. You need to be fast and punish with 5LP because it'll hit with punish counter state, and you can get an uncommon 5LP > 4HP xx ender combo.
+
+If you block Ken's 2MK and he does HK dragonlash to steal a turn, you can back or forward jump to avoid the dragonlash.
 
 When Ken players get jiggy with dragonlash and you're close, press 5LP to trigger a hard knockdown juggle and link 236HK (hk legs). The best punish for this is 5MP HKD juggle xx stance MK xx 22HK.
+
+# Ken Offense
+
+When Ken does 5LP stepback delay 5HP, they're typically looking for the Chun to do immediate 6mp after their 5LP. Delaying your 6MP may help when contesting this.
+
+To challenge spaced 5LP > 5HP, you need to hit 5LP or 5LK right after you block his 5LP, no hesitation. If he's close i can do 2lk/2lp as a challenge as well. 5lk reaches slightly further than 5lp in some cases and can cancel into mk legs, good meterless damage.
+
+Ken's runstep HK is punishable ONLY with 5LP and ONLY if Ken's runstep HK hits deep enough on block.

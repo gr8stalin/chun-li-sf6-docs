@@ -17,6 +17,8 @@ After watching that video, you should have a rough idea of what you'll need, but
 - `jekyll`, the static site generator: [https://jekyllrb.com/](https://jekyllrb.com/)
 - Visual Studio Code
 
+The repository for this documentation site is here: [https://github.com/gr8stalin/chun-li-sf6-docs](https://github.com/gr8stalin/chun-li-sf6-docs)
+
 ## Contribution guidelines
 
 I follow the [Microsoft guidelines for contribution](https://learn.microsoft.com/en-us/contribute/content/dotnet/dotnet-contribute#guidelines-for-contributions). Don't jumpscare me with massive pull requests out of nowhere. Start by posting an issue to the repo and tell me what you'd like to add.
