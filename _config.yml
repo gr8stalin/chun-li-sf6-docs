@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Chun-Li SF6 Docs
+description: Collection of notes and documentation for Chun-Li in Street Fighter 6.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://gr8stalin.github.io/chun-li-sf6-docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github Repository: https://github.com/gr8stalin/chun-li-sf6-docs
