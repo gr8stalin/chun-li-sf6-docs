@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Okizeme/Knockdowns
-nav_order: 3
+nav_order: 4
 ---
 
 Chun benefits from the "throw until they start teching" approach on oki a bit more than other characters. Singular strikes from Chun on an opponent's block aren't too threatening despite having a +1 on block medium, and she lacks a throw loop entirely.
