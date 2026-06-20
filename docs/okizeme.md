@@ -6,6 +6,10 @@ nav_order: 4
 
 Chun benefits from the "throw until they start teching" approach on oki a bit more than other characters. Singular strikes from Chun on an opponent's block aren't too threatening despite having a +1 on block medium, and she lacks a throw loop entirely.
 
+1. Magic Numbers for Okizeme
+2. Tricks and Framekills
+{:toc}
+
 # Magic Numbers for Okizeme
 
 ## +29
@@ -42,7 +46,7 @@ The HK sbk knockdown forces you to do a second (and optionally third) 2LK cancel
 
 ## +36
 
-Every 22HK (heavy tensho kick) that hits will leave you +36. 
+Almost every 22HK (heavy tensho kick) that hits will leave you +36.
 
 ### Midscreen
 
@@ -59,6 +63,23 @@ On quickrise you can do dash -> drive rush 5MP. At max (depending on your timing
 
 ### Corner
 
+Since they're in the corner, it doesn't really matter how they rise.
+
+Use one dash as a framekill and follow up with drive rush 5MP.
+
+On hit, you're +11, counterhit leaves you +15. Both of these yield 2HP xx 214P~MK. Cancelling into [2]8HK yields oki, 236HK > 22HK yields damage.
+
+On block, you're +6 depending on your timing. Your options:
+
+- tick throw
+- shimmy
+- 2HP
+  - On block, 214P~LP/LK xx fireball. LP fireball is a frametrap, HP is gapless
+  - On hit, 214P~HK > stomps > jHP target combo
+- 4HP
+  - On block, 2MP xx fireball. LP fireball is a frametrap, HP is gapless
+  - On hit, 2MP xx [2]8HK
+
 After cornering an opponent with HK tensho kick, you can either:
 
 - framekill with 2MK, which sets up an ambiguous throw/shimmy situation
@@ -66,7 +87,58 @@ After cornering an opponent with HK tensho kick, you can either:
 
 ## +37
 
+Combos that involve juggles and end in 22K, such as anything from [2]8KK or the corner-specific 236HK, leave you +37. 
+
+When midscreen you can re-apply the same choices for +36. In the corner, a good, meterless, and ambiguous throw/shimmy framekill is whiffing 5HK. Whiffing 5HK leaves you +3, makes it look like you're moving forward, but allows you to backwalk out of throw range by holding back OR pressing throw immediately after whiff.
+
 ## +45
+
+The fake safejump setup. Being +45 can be achieved by either *manually timing* your stomps during a stance launch/super 2 combo that corners your opponent, or by landing 236HK > 236LK on a cornered opponent.
+
+After jumping, you can choose to throw, go low, or shimmy as usual, but you **cannot** do the late jHK as you would in the real safejump setup or you will be hit by the opponent's wakeup reversal.
+
+Another layer to this is you can also choose to jump and land with j2MK, which sets up high/low mix:
+
+- Do another j2MK > jHK
+  - After the jHK you're *just* plus enough to do 5LP, which sets up strike/tick throw
+- Land and go low
+- Land and throw
 
 ## +46
 
+The real safejump setup. You only get this from either the stance launch or super 2 combo, and this only really works in the corner, unless your opponent quickrises midscreen for some reason.
+
+After finishing the combo, forward jump at your cornered opponent and hit jHK as low as you can in the descent. On the bright side, either your opponent blocks and you're plus or your opponent reversals and you get a big corner combo. Unfortunately, you *can* lose to perfect parry doing this.
+
+Another layer to the safejump is to omit the jHK completely and treat landing as another strike/throw/shimmy situation:
+
+- Go low with 2LK or 2MK depending on how greedy you are
+- Tick throw
+- Throw
+- Shimmy
+
+# Tricks and Framekills
+
+## Safejump framekill
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BUHPP2woCxs?si=cc1kmNQLVRW6upTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+After hitting the stance launch combo in the corner, 5lp -> 2mk is a framekill for meaty throw and you can walk back out of it for shimmy.
+
+## Drive Impact sideswap oki
+
+https://www.twitch.tv/videos/2771188888?t=0h23m22s
+
+EX legs and DI sideswap share the same framekill: 4/6mp, which leaves you +5 for throw/shimmy.
+
+## 5HK framekill on +37
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uNZ9y0E775Y?si=kru9IuIW8NVreuUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+After 22HK from juggle starters, whiffing 5HK is a throw/shimmy framekill, see [+37](#37).
+
+## Meaty midscreen HK Hazanshu
+
+https://www.twitch.tv/videos/2771188888?t=1h41m29s
+
+After [2]8HK midscreen, you can use 214HK (HK Hazanshu) as a meaty. If they're mashing on hit you're +10, but you're only +1 on block ***and*** not in range for throw, so you have to commit to a 4f button (5LP, 2LP, 2LK) immediately. If your opponent is passive on defense or willing to block it out, you *can* try microwalk throw.

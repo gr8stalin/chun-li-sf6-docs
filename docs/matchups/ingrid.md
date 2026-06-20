@@ -14,8 +14,7 @@ The divisive mahou shoujo addition to Street Fighter 6, similar to JP in functio
 
 # Teleport gotchas
 
-TODO: Harms' vod will eventually expire, recreate what he demonstrates here
-https://www.twitch.tv/videos/2785466294?t=2h34m0s
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W6JegMa5xCE?si=fwp7YD3RTB6RjTUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ingrid's teleport should be one of the first things you should try to handle since it's one of her non-drive rush cancel "get in" tools.
 
@@ -31,14 +30,12 @@ In training mode, I found that 5MP's favorable hitboxes and 4HP's extra active f
 
 # Fireball pressure
 
-TODO: Harms' vod will eventually expire, recreate what he demonstrates here
-https://www.twitch.tv/videos/2785466294?t=2h15m3s
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S1OK2eLuN-Q?si=cvOWibwaBht3ar-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Whenever Ingrid does some sort of midscreen fireball meaty after a knockdown, you have to be attentive to the animation keyframes: if she leans back at the very end, the fireball is going above you and you're usually in range for anything between 2MP and 2HP.
 
 # Monoid counter
 
-TODO: Harms' vod will eventually expire, recreate what he demonstrates here
-https://www.twitch.tv/videos/2785466294?t=2h26m5s
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7UYsA4dQXn0?si=vGyOGN5YS3g-gJjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ingrid's monoid counter has the exact same frame data as JP's amnesia. Treat it like JP's amnesia and punish the 35f of recovery.
