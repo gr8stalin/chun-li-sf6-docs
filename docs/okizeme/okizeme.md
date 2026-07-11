@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Okizeme/Knockdowns
-nav_order: 4
+title: Basics
+parent: Okizeme
+nav_order: 1
 ---
 
-Chun benefits from the "throw until they start teching" approach on oki a bit more than other characters. Singular strikes from Chun on an opponent's block aren't too threatening despite having a +1 on block medium, and she lacks a throw loop entirely.
-
-1. Magic Numbers for Okizeme
-2. Tricks and Framekills
-{:toc}
+The oki and setups here are foundational: you'll be doing these until the day SF6 stops being the mainline SF game.
 
 # Magic Numbers for Okizeme
 
@@ -16,21 +13,17 @@ Chun benefits from the "throw until they start teching" approach on oki a bit mo
 
 Any hit ending in OD lightning legs results in a +29 knockdown. To be frank, OD legs kind of sucks as a confirm option when you're midscreen. If you land it, dashing after it leaves you +10 and gives you traditional strike/throw/shimmy if they quickrise. 
 
-If they backrise midscreen, you get "nothing" - you get the damage and corner carry but no further aggression. If you notice your opponent is constantly backrising midscreen, next time you land OD legs you can throw out a fireball and set up a fireball trap. 
-
-Once their jump opportunity passes, you can walk behind the fireball. Be careful doing this if your opponent has an anti-fireball option available on wakeup because you *will* get hit by it.
+If they backrise midscreen, you get "nothing" - you get the damage and corner carry but no further aggression. If you notice your opponent is constantly backrising midscreen, next time you land OD legs you can throw out a fireball and set up a fireball trap. Once their jump opportunity passes, you can walk behind the fireball. Be careful doing this if your opponent has an anti-fireball option available on wakeup because you *will* get hit by it.
 
 If you hit a cornered opponent with OD legs, you can framekill with 4MP. The framekill will leave you +5 for a perfect throw/shimmy setup.
 
 ## +33~34
 
-Every HK spinning bird kick results in a +33 knockdown. 
-
-### Midscreen
+Every HK spinning bird kick results in a +33 knockdown, and every MK spinning bird kick results in a +34 knockdown. The oki between them is extremely similar with slight differences due to the extra frame from MK spinning bird kick. 
 
 You can dash and throw on quickrise, and dash -> microwalk -> throw on backrise.
 
-If you have drive meter, you can play like every other character in SF6 and turn green for the giga mix.
+If you have drive meter, you can play like every other character in SF6 and turn green for mix.
 
 - Empty drive rush will leave you +7 which is just enough time to backwalk out slightly and shimmy
 - Drive rush throw
@@ -38,11 +31,9 @@ If you have drive meter, you can play like every other character in SF6 and turn
 - Drive rush 3HP is your overhead
 - Drive rush 2LK/LP is your strike/throw/shimmy layer
 
-Every MK spinning bird kick results in a +34 knockdown. It behaves *almost* the same as the HK sbk knockdown except if you drive rush 2LK and the 2LK hits, it'll hit meaty and be +5 on hit naturally, which lets you do 5MP > 2MP xx HK sbk.
+One thing to note between using drive rush to follow up after spinning bird kick: MK spinning bird kick behaves *almost* the same as HK sbk does for the above options, except if you drive rush 2LK after MK sbk and the 2LK hits on perfect timing, it'll hit meaty and be +5 on hit which lets you do 5MP > 2MP xx HK sbk.
 
-The HK sbk knockdown forces you to do a second (and optionally third) 2LK canceled into LK sbk unless the 2LK counterhits.
-
-### Corner
+Since the HK sbk knockdown has 1 frame less advantage, doing drive rush 2LK and having it hit forces you to do a second (and optionally third) 2LK canceled into LK sbk in order to convert off it. Unless the 2LK counterhits, *then* you get 5MP.
 
 ## +36
 
@@ -116,29 +107,3 @@ Another layer to the safejump is to omit the jHK completely and treat landing as
 - Tick throw
 - Throw
 - Shimmy
-
-# Tricks and Framekills
-
-## Safejump framekill
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BUHPP2woCxs?si=cc1kmNQLVRW6upTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-After hitting the stance launch combo in the corner, 5LP -> 2MK is a framekill for meaty throw and you can walk back out of it for shimmy.
-
-## Drive Impact sideswap oki
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WTU7vWhAZPw?si=VDoG98OQGHDOz0El" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-OD legs and DI sideswap share the same framekill: 4/6mp, which leaves you +5 for throw/shimmy.
-
-## 5HK framekill on +37
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uNZ9y0E775Y?si=kru9IuIW8NVreuUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-After 22HK from juggle starters, whiffing 5HK is a throw/shimmy framekill, see [+37](#37).
-
-## Meaty midscreen HK Hazanshu
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g94Sne2iOrk?si=9W89xtLJmxBYy2Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-After [2]8HK midscreen, you can use 214HK (HK Hazanshu) as a meaty. If they're mashing on hit you're +10, but you're only +1 on block ***and*** not in range for throw, so you have to commit to a 4f button (5LP, 2LP, 2LK) immediately. If your opponent is passive on defense or willing to block it out, you *can* try microwalk throw.

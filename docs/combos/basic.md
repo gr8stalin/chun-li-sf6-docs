@@ -37,9 +37,11 @@ Most players tend to not be aware that jHK is hitting someone mid-button and giv
 | jHP/HK > 2HP xx [2]8HK                           |        | +33       | "Keep It Stupid Simple" combo.                           |
 | jHP/HK > 2HP xx 214P~HK > j2MK x2 > jHP.jHP      |        | +46       | Optimal meterless for meter build and super links.       |
 
+For any jumpin going into stance launcher, you can substitute 2HP with 4HP if you're unsure of the advantage you have. The damage is negligible if going for the stance launcher, but 2HP makes your subsequent button/special choice easier due to the two hits of 2HP.
+
 ## Punish BnBs
 
-It's best to stick with 2HP and 5HP as punish starters early on because they feed into her best oki.
+These are your elementary blocked DP/Super punishes. It's best to stick with 2HP and 5HP as punish starters early on because they feed into her best oki.
 
 If you counter DI someone, the 5HK starter combo is going to be your most optimal no matter what.
 
@@ -48,4 +50,4 @@ If you counter DI someone, the 5HK starter combo is going to be your most optima
 | 2HP/4HP xx 214P~MK xx [2]8HK                     |        | +33       | Swapping HK SBK allows for flexible routing & spend.                                 |
 | 6HK > 3HP xx 214P~MK xx 22HK                     |        | +37       | Optimal meterless. 3HP accounts for distance from opponent.                          |
 | 5HP xx 214P~MK xx [2]8HK                         |        | +33       | Punish whiffed DI. Good for when you can't close distance for more optimal punishes. |
-| 5HK xx 214P~MK xx [2]8HK                         |        | +33       | Specifically optimal when counter DI-ing the opponent's DI.                          |
+| 5HK xx 214P~MK xx [2]8HK                         |        | +33       | Specifically optimal when counter DI-ing the opponent's DI, otherwise incurs substantial damage scaling. |
