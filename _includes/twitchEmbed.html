@@ -1,6 +1,7 @@
+{%- assign parent_domain = site.url | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first | split: ':' | first -%}
 <div class="embed-container">
   <iframe
-      src="https://clips.twitch.tv/embed?clip={{ include.id }}&parent={{ site.url }}"
+      src="https://clips.twitch.tv/embed?clip={{ include.id }}&parent={{ parent_domain }}"
       width="700"
       height="480"
       frameborder="0"
