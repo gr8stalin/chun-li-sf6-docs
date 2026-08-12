@@ -16,9 +16,9 @@ The online matchmaking chimpanzee. It's important to be able to check Ken shenan
 
 Jinrai is a universal input for Ken, 236K, but the strength changes some of the frame data:
 
-LK is 12f startup, -11 on block
-MK is 16f startup, -7 on block
-HK is 25f startup, +2 on block
+- LK is 12f startup, -11 on block
+- MK is 16f startup, -7 on block
+- HK is 25f startup, +2 on block
 
 These are all pretty rough but the danger of Jinrai is that Ken players can just dial in a follow-up option and it automatically sets up mix and a minor mindgame for future knockdowns Ken gets. Jinrai starts from a button (usually 2MK) and then goes into:
 
@@ -36,11 +36,11 @@ If the Ken shows you they're just picking between 6LK and 6MK based on vibes, yo
 
 # Dragonlash
 
-If Ken does drive rush LK dragonlash, it's -4 on block. You need to be fast and punish with 5LP because it'll hit with punish counter state, and you can get an uncommon 5LP > 4HP xx ender combo.
-
-If you block Ken's 2MK and he does HK dragonlash to steal a turn, you can back or forward jump to avoid the dragonlash.
-
 When Ken players get jiggy with dragonlash and you're close, press 5LP to trigger a hard knockdown juggle and link 236HK (hk legs). The best punish for this is 5MP HKD juggle xx stance MK xx 22HK.
+
+Scenario 1: if Ken does drive rush LK dragonlash, it's -4 on block. You need to be fast and punish with 5LP because it'll hit with punish counter state, and you can get an uncommon 5LP > 4HP xx ender combo.
+
+Scenario 2: if you block Ken's 2MK and he does HK dragonlash to steal a turn, you can back or forward jump to avoid the dragonlash.
 
 # Ken Offense
 
